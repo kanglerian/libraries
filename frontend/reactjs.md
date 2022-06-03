@@ -1,3 +1,4 @@
+[Kembali](/)
 # Dzikir Counter Ver.1
 
 Ini adalah sebuah aplikasi sederhana yaitu menghitung jumlah dzikir. Dzikir ba'da shalat dengan hitungan 33. Secara teknis, ketika angka sudah mencapai 33 maka nilai counter akan menjadi 1. Namun ketika kita reset maka nilai counter menjadi 0.
